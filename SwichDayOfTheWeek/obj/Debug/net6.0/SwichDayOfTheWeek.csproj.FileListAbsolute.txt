@@ -1,0 +1,15 @@
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\bin\Debug\net6.0\SwichDayOfTheWeek.exe
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\bin\Debug\net6.0\SwichDayOfTheWeek.deps.json
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\bin\Debug\net6.0\SwichDayOfTheWeek.runtimeconfig.json
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\bin\Debug\net6.0\SwichDayOfTheWeek.dll
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\bin\Debug\net6.0\SwichDayOfTheWeek.pdb
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.AssemblyInfo.cs
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.dll
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\refint\SwichDayOfTheWeek.dll
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.pdb
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\SwichDayOfTheWeek.genruntimeconfig.cache
+C:\Users\Vanessa\source\repos\Week3IfAnd Switch\SwichDayOfTheWeek\obj\Debug\net6.0\ref\SwichDayOfTheWeek.dll
